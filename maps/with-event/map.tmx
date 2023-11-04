@@ -18,5 +18,11 @@
   <object id="31" name="EV-1" x="223" y="400">
    <point/>
   </object>
+   <object id="32" name="EV-2" x="300" y="400">
+   <point/>
+  </object>
+   <object id="33" name="EV-3" x="400" y="400">
+   <point/>
+  </object>
  </objectgroup>
 </map>
