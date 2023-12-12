@@ -18,6 +18,7 @@ const to = () => {
     height: 16,
     opacity: 1,
     anchor: [0.5],
+    scale: [0.1],
     textures: {
         [Animation.Stand]: {
             animations: () => [to()]
